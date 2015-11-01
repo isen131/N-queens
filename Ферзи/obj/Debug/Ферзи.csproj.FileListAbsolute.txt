@@ -1,0 +1,18 @@
+c:\users\crash_000\documents\visual studio 2015\Projects\Ферзи\Ферзи\bin\Debug\Ферзи.exe.config
+c:\users\crash_000\documents\visual studio 2015\Projects\Ферзи\Ферзи\bin\Debug\Ферзи.exe
+c:\users\crash_000\documents\visual studio 2015\Projects\Ферзи\Ферзи\bin\Debug\Ферзи.pdb
+c:\users\crash_000\documents\visual studio 2015\Projects\Ферзи\Ферзи\obj\Debug\Ферзи.csprojResolveAssemblyReference.cache
+c:\users\crash_000\documents\visual studio 2015\Projects\Ферзи\Ферзи\obj\Debug\Ферзи.exe
+c:\users\crash_000\documents\visual studio 2015\Projects\Ферзи\Ферзи\obj\Debug\Ферзи.pdb
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\bin\Debug\Ферзи.exe.config
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\obj\Debug\Ферзи.exe
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\obj\Debug\Ферзи.pdb
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\bin\Debug\Ферзи.exe
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\bin\Debug\Ферзи.pdb
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\obj\Debug\Ферзи.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\Ферзи\bin\Debug\Ферзи.exe.config
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\Ферзи\obj\Debug\Ферзи.exe
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\Ферзи\obj\Debug\Ферзи.pdb
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\Ферзи\bin\Debug\Ферзи.exe
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\Ферзи\bin\Debug\Ферзи.pdb
+C:\Users\Женя\Desktop\Проекты VS\Ферзи\Ферзи\Ферзи\obj\Debug\Ферзи.csprojResolveAssemblyReference.cache
